@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Paris Movie",
+      "yearOfRelease": "2021",
+      "genre": "series",
+      "image": "https://loremflickr.com/g/320/240/paris,girl/all",
+      "pg": "14+",
+      "bookmarked": false
+    },
+    {
+      "id": 2,
+      "title": "The Small Lands",
+      "yearOfRelease": 2019,
+      "genre": "movie",
+      "image": "https://loremflickr.com/320/240",
+      "pg": "PG",
+      "bookmarked": false
+    },
+    {
+      "id": 3,
+      "title": "The No Lands",
+      "yearOfRelease": 2019,
+      "genre": "movie",
+      "image": "https://loremflickr.com/320/240/dog",
+      "pg": "PG",
+      "bookmarked": false
+    },
+    {
+      "id": 4,
+      "title": "The New Lands",
+      "yearOfRelease": 2019,
+      "genre": "movie",
+      "image": "https://loremflickr.com/g/320/240/paris",
+      "pg": "PG",
+      "bookmarked": false
+    },
+    {
+      "id": 5,
+      "title": "The Great",
+      "yearOfRelease": 2019,
+      "genre": "series",
+      "image": "https://loremflickr.com/320/240/brazil,rio",
+      "pg": "PG",
+      "bookmarked": false
+    },
+    {
+      "id": 6,
+      "title": "The Great Lands",
+      "yearOfRelease": 2019,
+      "genre": "series",
+      "image": "https://loremflickr.com/320/240",
+      "pg": "18+",
+      "bookmarked": false
+    },
+    {
+      "id": 7,
+      "title": "Lands",
+      "yearOfRelease": 2019,
+      "genre": "movie",
+      "image": "https://loremflickr.com/g/320/240/paris,girl/all",
+      "pg": "PG",
+      "bookmarked": false
+    },
+    {
+      "id": 8,
+      "title": "No Lands",
+      "yearOfRelease": 2019,
+      "genre": "movie",
+      "image": "https://loremflickr.com/320/240",
+      "pg": "PG",
+      "bookmarked": false
+    }
+  ]
+}
